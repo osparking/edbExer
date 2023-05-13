@@ -1,0 +1,1 @@
+https://www.toptal.com/developers/gitignore/api/java,gradle,maven,eclipse,intellij
